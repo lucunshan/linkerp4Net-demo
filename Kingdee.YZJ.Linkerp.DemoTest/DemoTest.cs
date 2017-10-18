@@ -89,7 +89,7 @@ namespace Kingdee.YZJ.Linkerp.DemoTest
             tableData.eid = "11738174";
             tableData.reportCategoryId = "59cf54bd59b4462841b12c85"; // 来源于AdminTableInfos,与表头保持一致
             tableData.tableInfoId = "59e48733b449296dae8bacc2";// 来源于表头创建或已有数据表Id
-            tableData.addType = 0;
+            tableData.addType = 1;
             tableData.data = testData;
             tableData.batchId = "GmdGyrsuqqPqZcZRLpwzxXvjbDXu89";// 批次id,每次传不重复随机值，建议使用uuid
 
